@@ -5,7 +5,7 @@ class Cat:
   fatigue = 50
 
   def __init__(self):
-    print("60")
+    print("heigt = 60")
 
   def get_older(self):
     self.age += 0.5
